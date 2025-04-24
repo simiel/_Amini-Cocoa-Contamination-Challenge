@@ -1,1 +1,8 @@
 /envs
+./dataset.zip
+/dataset
+*.zip
+/dataset/*
+*/test
+*/train
+dataset/images/test/*
