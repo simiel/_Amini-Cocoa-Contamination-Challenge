@@ -1,0 +1,9 @@
+names:
+- anthracnose
+- cssvd
+- healthy
+nc: 3
+path: /Users/adjei/Desktop/Amini Cocoa Contamination Challenge/dataset
+test: /Users/adjei/Desktop/Amini Cocoa Contamination Challenge/dataset/images/test
+train: /Users/adjei/Desktop/Amini Cocoa Contamination Challenge/dataset/images/train
+val: /Users/adjei/Desktop/Amini Cocoa Contamination Challenge/dataset/images/val
